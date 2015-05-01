@@ -1,0 +1,8 @@
+a = 4;
+b = 8;
+
+if a > b do
+println("A is greater");
+else do
+println("B is greater");
+end
